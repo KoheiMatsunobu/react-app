@@ -1,7 +1,3 @@
-# React Corona Tracker App
-https://www.amazon.co.jp/はじめてつくるReactアプリ-TypeScript-mod728-ebook/dp/B094Z1R281
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
