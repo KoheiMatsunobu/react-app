@@ -1,7 +1,7 @@
 // Card.js
-const Card = (props) => {
+const Card = ({allCountriesData}) => {
     
-    const allCountries = props.allCountriesData.map((singleData, index) => 
+    const allCountries = allCountriesData.map((singleData, index) => 
         <div className="card" key={index}>
             <div>
                 <h2>{singleData.Country}</h2>
